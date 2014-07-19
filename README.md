@@ -1,0 +1,4 @@
+simpleEmailSend
+===============
+
+Send emails anonymously
